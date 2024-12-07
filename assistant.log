@@ -1,0 +1,8 @@
+2024-10-15 17:22:53,736:ERROR:Exception in accept_command: No Default Input Device Available
+2024-10-15 17:23:07,796:ERROR:Exception in accept_command: No Default Input Device Available
+2024-10-15 17:24:53,603:ERROR:Exception in accept_command: No Default Input Device Available
+2024-11-19 05:20:45,259:ERROR:UnknownValueError in accept_command: Comando non riconosciuto.
+2024-11-19 05:21:14,259:ERROR:UnknownValueError in accept_command: Comando non riconosciuto.
+2024-11-19 05:21:22,162:ERROR:UnknownValueError in accept_command: Comando non riconosciuto.
+2024-11-19 05:21:31,169:ERROR:UnknownValueError in accept_command: Comando non riconosciuto.
+2024-11-19 05:21:39,291:ERROR:UnknownValueError in accept_command: Comando non riconosciuto.
